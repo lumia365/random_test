@@ -12,7 +12,7 @@ int cycles;
 vector<int> v[105];
 bool vis[105];int root[105];
 void dfs(int u,int parent)
-{
+{ada
 	vis[u]=true;
 	//cout<<"uu"<<u<<endl;
 	for(int i=0;i<v[u].size();++i)
