@@ -7,6 +7,7 @@ using namespace std;
 #define sc second
 int dx[4]={0,0,1,-1},dy[4]={1,-1,0,0},dxx[8]={0,0,1,1,1,-1,-1,-1},dyy[8]={1,-1,0,1,-1,0,1,-1};
 //914836017997511610
+//dfbekbfkebksjbkjbfk
 int cycles;
 vector<int> v[105];
 bool vis[105];int root[105];
